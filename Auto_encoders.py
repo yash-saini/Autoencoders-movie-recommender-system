@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 22 17:31:23 2019
-
-@author: YASH SAINI
-"""
-
 import torch
 import torch.nn as nn
 import torch.nn.parallel
